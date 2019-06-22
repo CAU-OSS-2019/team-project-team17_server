@@ -16,13 +16,6 @@ Write Something...
 
 ## Installation
 Write Something...
-
-## Other Repositories of GameHaeDuo
-### Client
-https://github.com/CAU-OSS-2019/team-project-team17_client
-
-### Verification Program
-https://github.com/CAU-OSS-2019/team-project-team17_verification_program
  
 
 ## Contribution
@@ -39,3 +32,11 @@ We are developing in 'develop' branch and functions are divided into topic branc
 
 ## License
 Apache 2.0
+
+
+## Other Repositories of GameHaeDuo
+### Client
+https://github.com/CAU-OSS-2019/team-project-team17_client
+
+### Verification Program
+https://github.com/CAU-OSS-2019/team-project-team17_verification_program
