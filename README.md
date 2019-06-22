@@ -37,7 +37,7 @@ We are developing in 'develop' branch and functions are divided into topic branc
 
 
 ## License
-Apache 2.0
+This project is licensed under the Apache 2.0. You can see [LICENSE.md](https://github.com/CAU-OSS-2019/team-project-team17_server/blob/master/LICENSE) for details.
 
 
 ## Other Repositories of GameHaeDuo
