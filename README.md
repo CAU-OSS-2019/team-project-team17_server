@@ -2,7 +2,7 @@
 Find your **BEST DUO** from GameHaeDuo and **WIN** in 'League Of Legend'
 
 
-## About GameHaeDuo Server
+## About GameHaeDuo's Server
 Write something about what Server does...
 
 ### Support Websites
@@ -26,6 +26,8 @@ https://github.com/CAU-OSS-2019/team-project-team17_verification_program
  
 
 ## Contribution
+If you want to contribute to our project, please read [CONTRIBUTING.md](https://github.com/CAU-OSS-2019/team-project-team17_server/blob/master/CONTRIBUTING.md) before contributing.
+
 ### Issue
 When you have issue, please register your issue [here](https://github.com/CAU-OSS-2019/team-project-team17_server/issues)
 
