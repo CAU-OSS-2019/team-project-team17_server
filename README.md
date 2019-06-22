@@ -1,9 +1,12 @@
-# GameHaeDuo
-Find your **BEST DUO** from GameHaeDuo and **WIN** in 'League Of Legend'
+# GameHaeDuo Server Repo
+All our server related code is in here. There are 4 servers and all of them are used in our GameHaeDuo program.
 
 
 ## About GameHaeDuo's Server
-Write something about what Server does...
+* Python Crawling Server 
+* Log-in Server 
+* Sign-up Server
+* Duo-Matching Server
 
 ### Support Websites
 * [op.gg](https://www.op.gg/)  
@@ -11,7 +14,10 @@ Write something about what Server does...
 
 
 ## Getting Started with GameHaeDuo's Server
-Write Something...
+* Python Server crawls the data for each user in our program everytime a user logs-in. And put that data in database.
+* Log-in Server is used to check if the user who logs in is valid or not. This server is connected to the db with sockets. If user who logs-in matches with the database server returns true.
+* Sign-up Server is only used when user signs-up. The user nickname is verified with our OCR program. If the user nickname is verified the user is allowed to sign-up. Signing up requires id, password, and their lol nickname. These information is saved in our database.
+* Matching Server receives user nicknames, tier, desired position, duo desired position information. When enough people are in our server matching queue, our match-finding algorithm is used to match two people together. Once matched, the server sends a message to each user about their duo information and asks if they want accept.
 
 
 ## Installation
